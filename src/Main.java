@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 class Main {
-    private static final String FILE_PATH = "C:\\Users\\Саша\\IdeaProjects\\Poiskdvuh\\1111.txt";
+    private static final String FILE_PATH = "C:\\Users\\daniil\\IdeaProjects\\searchtwo\\1111.txt";
 
     public static void main(String[] args) {
         try {
